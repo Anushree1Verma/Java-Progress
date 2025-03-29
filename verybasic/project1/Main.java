@@ -19,7 +19,7 @@ public class Main
 
         Scanner scanner=new Scanner(System.in);
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
-        System.out.println("Welcome motherfuckers!");
+        System.out.println("WELCOME");
         System.out.println("Test Your JAVA knowledge");
         System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 
